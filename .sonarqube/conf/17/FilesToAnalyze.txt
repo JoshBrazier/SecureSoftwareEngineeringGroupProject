@@ -1,0 +1,7 @@
+﻿/Users/josh/Desktop/od_uofa/2025/secure/major project/recent pull wednesday/SecureSoftwareEngineeringGroupProject/SecureSoftwareGroupProject.Tests/AppDbContextTests.cs
+/Users/josh/Desktop/od_uofa/2025/secure/major project/recent pull wednesday/SecureSoftwareEngineeringGroupProject/SecureSoftwareGroupProject.Tests/BasicTests.cs
+/Users/josh/Desktop/od_uofa/2025/secure/major project/recent pull wednesday/SecureSoftwareEngineeringGroupProject/SecureSoftwareGroupProject.Tests/CustomerReviewsModelTests.cs
+/Users/josh/Desktop/od_uofa/2025/secure/major project/recent pull wednesday/SecureSoftwareEngineeringGroupProject/SecureSoftwareGroupProject.Tests/UnitTest1.cs
+/Users/josh/.nuget/packages/microsoft.net.test.sdk/18.0.0/build/net8.0/Microsoft.NET.Test.Sdk.Program.cs
+/Users/josh/.nuget/packages/xunit.runner.visualstudio/3.1.5/build/net8.0/xunit.abstractions.dll
+/Users/josh/.nuget/packages/xunit.runner.visualstudio/3.1.5/build/net8.0/xunit.runner.visualstudio.testadapter.dll

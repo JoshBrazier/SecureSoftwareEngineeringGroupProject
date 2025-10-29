@@ -1,0 +1,21 @@
+﻿/Users/josh/Desktop/od_uofa/2025/secure/major project/recent pull wednesday/SecureSoftwareEngineeringGroupProject/SecureSoftwareGroupProject.Tests/AppDbContextTests.cs
+/Users/josh/Desktop/od_uofa/2025/secure/major project/recent pull wednesday/SecureSoftwareEngineeringGroupProject/SecureSoftwareGroupProject.Tests/BasicTests.cs
+/Users/josh/Desktop/od_uofa/2025/secure/major project/recent pull wednesday/SecureSoftwareEngineeringGroupProject/SecureSoftwareGroupProject.Tests/ClientsModelTests.cs
+/Users/josh/Desktop/od_uofa/2025/secure/major project/recent pull wednesday/SecureSoftwareEngineeringGroupProject/SecureSoftwareGroupProject.Tests/CustomerBalanceModelTests.cs
+/Users/josh/Desktop/od_uofa/2025/secure/major project/recent pull wednesday/SecureSoftwareEngineeringGroupProject/SecureSoftwareGroupProject.Tests/CustomerModelTests.cs
+/Users/josh/Desktop/od_uofa/2025/secure/major project/recent pull wednesday/SecureSoftwareEngineeringGroupProject/SecureSoftwareGroupProject.Tests/CustomerReviewsModelTests.cs
+/Users/josh/Desktop/od_uofa/2025/secure/major project/recent pull wednesday/SecureSoftwareEngineeringGroupProject/SecureSoftwareGroupProject.Tests/CustomerReviewTests.cs
+/Users/josh/Desktop/od_uofa/2025/secure/major project/recent pull wednesday/SecureSoftwareEngineeringGroupProject/SecureSoftwareGroupProject.Tests/ErrorModelTests.cs
+/Users/josh/Desktop/od_uofa/2025/secure/major project/recent pull wednesday/SecureSoftwareEngineeringGroupProject/SecureSoftwareGroupProject.Tests/IndexModelTests.cs
+/Users/josh/Desktop/od_uofa/2025/secure/major project/recent pull wednesday/SecureSoftwareEngineeringGroupProject/SecureSoftwareGroupProject.Tests/LoginModelTests.cs
+/Users/josh/Desktop/od_uofa/2025/secure/major project/recent pull wednesday/SecureSoftwareEngineeringGroupProject/SecureSoftwareGroupProject.Tests/LogoutModelTests.cs
+/Users/josh/Desktop/od_uofa/2025/secure/major project/recent pull wednesday/SecureSoftwareEngineeringGroupProject/SecureSoftwareGroupProject.Tests/PrivacyModelTests.cs
+/Users/josh/Desktop/od_uofa/2025/secure/major project/recent pull wednesday/SecureSoftwareEngineeringGroupProject/SecureSoftwareGroupProject.Tests/ProgramConfigurationTests.cs
+/Users/josh/Desktop/od_uofa/2025/secure/major project/recent pull wednesday/SecureSoftwareEngineeringGroupProject/SecureSoftwareGroupProject.Tests/ProviderProfileTests.cs
+/Users/josh/Desktop/od_uofa/2025/secure/major project/recent pull wednesday/SecureSoftwareEngineeringGroupProject/SecureSoftwareGroupProject.Tests/SignupDtoTests.cs
+/Users/josh/Desktop/od_uofa/2025/secure/major project/recent pull wednesday/SecureSoftwareEngineeringGroupProject/SecureSoftwareGroupProject.Tests/SignupModelTests.cs
+/Users/josh/Desktop/od_uofa/2025/secure/major project/recent pull wednesday/SecureSoftwareEngineeringGroupProject/SecureSoftwareGroupProject.Tests/UnitTest1.cs
+/Users/josh/Desktop/od_uofa/2025/secure/major project/recent pull wednesday/SecureSoftwareEngineeringGroupProject/SecureSoftwareGroupProject.Tests/UserTests.cs
+/Users/josh/.nuget/packages/microsoft.net.test.sdk/18.0.0/build/net8.0/Microsoft.NET.Test.Sdk.Program.cs
+/Users/josh/.nuget/packages/xunit.runner.visualstudio/3.1.5/build/net8.0/xunit.abstractions.dll
+/Users/josh/.nuget/packages/xunit.runner.visualstudio/3.1.5/build/net8.0/xunit.runner.visualstudio.testadapter.dll
